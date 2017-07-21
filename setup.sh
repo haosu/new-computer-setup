@@ -31,6 +31,6 @@ brew cask install docker
 
 # setup ssh here
 
-git clone https://github.com/haosu/dot.git .dot
+git clone git@github.com:haosu/dot.git .dot
 cd ~/.dot
 ./install
