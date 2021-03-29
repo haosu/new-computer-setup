@@ -1,0 +1,14 @@
+brew install chrome
+brew install iterm2
+brew install slate
+brew install spotify
+brew install macdown
+brew install sublime-text
+brew install ag
+brew install rbenv
+brew install ruby-build
+brew install tmux
+brew install scala
+brew install docker
+brew install contexts
+brew install docker
